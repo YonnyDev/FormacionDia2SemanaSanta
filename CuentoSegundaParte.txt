@@ -1,1 +1,2 @@
 esta seria la segunda parte de nuestro cuento de Caperucita Roja
+esto se editó en la rama2 con interes de hacer un commit desde la rama2
