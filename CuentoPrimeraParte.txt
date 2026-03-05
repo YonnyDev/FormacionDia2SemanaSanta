@@ -1,3 +1,5 @@
 inicio de cuento
 
 aqui inicia una historia llamada Caperucita Roja
+
+esta modificación quiero que se vea en mi diff
