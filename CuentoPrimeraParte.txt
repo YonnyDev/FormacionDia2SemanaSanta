@@ -2,4 +2,8 @@ inicio de cuento
 
 aqui inicia una historia llamada Caperucita Roja
 
+<<<<<<< HEAD
 aqui tenemos algun cambio notorio de alguna funcionalidad
+=======
+esta modificación quiero que se vea en mi diff
+>>>>>>> rama2

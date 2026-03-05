@@ -1,2 +1,6 @@
 esta seria la segunda parte de nuestro cuento de Caperucita Roja
+<<<<<<< HEAD
 que aqui edité, arreglé un bug y que mejoré el código desde la rama 2
+=======
+esto se editó en la rama2 con interes de hacer un commit desde la rama2
+>>>>>>> rama2
