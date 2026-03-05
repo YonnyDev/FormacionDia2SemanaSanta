@@ -1,1 +1,2 @@
 esta seria la segunda parte de nuestro cuento de Caperucita Roja
+que aqui edité, arreglé un bug y que mejoré el código desde la rama 2
